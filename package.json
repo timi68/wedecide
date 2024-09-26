@@ -34,7 +34,7 @@
 		"lodash": "^4.17.21",
 		"log4js": "^6.4.6",
 		"mobile-detect": "^1.4.5",
-		"mongoose": "^6.2.3",
+		"mongoose": "^6.3.4",
 		"nodemailer": "^6.6.5",
 		"nodemon": "^2.0.13",
 		"passport": "^0.4.1",
